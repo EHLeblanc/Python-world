@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+main {
+font-family: 'Times New Roman', Times, serif;    
+text-align: center;
+background-color: black; 
+}
+cards {
+display: grid;
+}
+sections {
+text-align: center;
+}
