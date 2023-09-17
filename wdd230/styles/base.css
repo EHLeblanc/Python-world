@@ -8,6 +8,7 @@ background-color: black;
 }
 cards {
 display: grid;
+text-align: center;
 }
 sections {
 text-align: center;
